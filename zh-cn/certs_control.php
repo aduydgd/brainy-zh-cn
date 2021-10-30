@@ -42,7 +42,7 @@ $lang = array(
     'tpl_certs_del' => '删除',
     'tpl_certs_certdel' => '移除证书',
     'tpl_certs_cerdeactiv' => '停用证书',
-    'tpl_certs_key' => '密钥'，
+    'tpl_certs_key' => '密钥',
     'tpl_certs_certkey' => '删除密钥',
     'tpl_certs_gen_csr' => '生成 CSR',
     'tpl_certs_select_key' => '选择密钥',
@@ -50,7 +50,7 @@ $lang = array(
     'tpl_certs_domain_name' => '域名',
     'tpl_certs_key_size' => '选择大小',
 
-    'tpl_certs_country' => '国家'，
+    'tpl_certs_country' => '国家',
     'tpl_certs_state' => '状态',
     'tpl_certs_city' => '城市',
     'tpl_certs_company' => '公司',
@@ -72,7 +72,7 @@ $lang = array(
     'tpl_certs_save' => '保存',
     'tpl_certs_del_key' => '删除密钥',
 
-    'tpl_certs_c_keys' => '密钥'，
+    'tpl_certs_c_keys' => '密钥',
     'tpl_certs_c_crts' => '证书',
     'tpl_certs_c_setting_crts' => '安装证书',
     'tpl_certs_c_list_keycerts' => '域名和证书列表',
@@ -175,7 +175,7 @@ $lang = array(
     'msg_certs_control_certs_info1' => '申请成功',
     'cert_control_seluser' => '用户名',
     'cert_control_load_wait' => '请稍候',
-    'cert_control_gen_lets' => '生成 Lets Encrypt'，
+    'cert_control_gen_lets' => '生成 Lets Encrypt',
     'cert_control_gen_lets_renew' => '生成新的 Lets Encrypt 证书',
     'cert_control_letsen_autorenew' => '证书自动更新',
     'cert_control_letsen_autorenew_stat_save' => '已保存',
@@ -199,7 +199,7 @@ $lang = array(
 
     'certs_warn_notinstall_certbot' => 'CertBOT 未安装,请安装 CertBOT',
     'certs_warn_notinstall_certbot_btn' => '安装 CertBOT',
-    'certs_warn_nothing_sel' => '请选择证书。',
+    'certs_warn_nothing_sel' => '请选择证书',
 
     'certslets_tip_help' => '服务器的主机名将用于生成 Lets Encrypt 证书。您可以在 <a target=_blank href=/index.php?do=properties> 服务器配置 </a> 部分更改主机名。 <br/> 请确保绑定到您的主机名服务器 ',
 
