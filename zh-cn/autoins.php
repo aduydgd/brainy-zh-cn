@@ -17,7 +17,7 @@ $lang = array(
     'install_app_importexample' => '导入示例',
 
    'install_app_adminarea' => '管理员',
-     'install_app_adminarea_username' => '登录',
+     'install_app_adminarea_username' => '账号',
      'install_app_adminarea_pass' => '密码',
      'install_app_adminarea_realname' => '你的名字',
      'install_app_adminarea_email' => '电子邮件',
