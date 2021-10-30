@@ -99,7 +99,7 @@
         'backup_manager_files_no_perm' => '您无权访问此目录',
         'backup_manager_restorefile_path' => '请指定恢复文件的路径',
         'backup_manager_restoredir_path' => '请指定恢复文件夹的路径',
-        'backup_manager_restorefile_path_start_modal' => '开始'，
+        'backup_manager_restorefile_path_start_modal' => '开始',
         'backup_manager_db' => '选择性恢复',
         'backup_manager_db_list' => '数据库列表',
         'backup_manager_dbuser_list' => '数据库用户列表',
