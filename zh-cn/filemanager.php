@@ -1,8 +1,8 @@
 <?php
 
 $lang = array(
-    'filemanager'           => 'Файловый менеджер',
-    'filemanager_access_deny'           => 'Недостаточно прав'
+    'filemanager'           => '文件管理器',
+    'filemanager_access_deny'           => '权限不够'
 );
 
 ?>
