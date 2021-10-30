@@ -40,8 +40,8 @@ $lang = array(
     'tpl_s_serv_control_delete_conf' => '删除保存配置',
     'tpl_s_serv_control_action' => '操作',
     'tpl_s_serv_control_edit_php_ini' => '编辑基本的php.ini选项',
-    'tpl_s_serv_control_edit_beginners' => '初学者',
-    'tpl_s_serv_control_edit_experts' => '专家',
+    'tpl_s_serv_control_edit_beginners' => '基本',
+    'tpl_s_serv_control_edit_experts' => '高级',
     'tpl_s_serv_control_save' => '保存',
     'tpl_s_serv_control_ver_select' => '选择版本',
 
