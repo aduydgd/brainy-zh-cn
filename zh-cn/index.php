@@ -119,7 +119,7 @@ $lang = array(
     'index_section_dmarc' => 'DMARC',
 
     'index_section_cert' => '证书',
-    'index_control_ssl' => 'SSL 控制'，
+    'index_control_ssl' => 'SSL 控制',
 
     'index_sect_bd' => 'DB',
     'index_sect_bd_mysql' => 'MySQL 数据库',
