@@ -54,7 +54,7 @@ $lang = array(
     'index_dns' => '名称服务器',
      'index_dns_control_zone' => 'DNS 区域管理',
      'index_dns_ns' => '域名服务器',
-     'index_dns_init_caster' => 'DNS 集群',
+     'index_dns_init_claster' => 'DNS集群',
 
      'index_application' => '应用程序',
      'index_application_manager' => '应用管理器',
