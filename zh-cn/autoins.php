@@ -75,7 +75,7 @@ $lang = array(
      'autoins_install_error' => '错误',
      'autoins_install_wait_user' => '等待用户选择',
 
-    'autoins_deleteapp_inprogress' =>' 正在删除。请等一下'，
+    'autoins_deleteapp_inprogress' =>' 正在删除,请等待',
     'autoins_cms' => '选择分布',
     'autoins_install' => '选择发行版',
     'autoins_error_connect' => '错误连接 mysql',
