@@ -1,7 +1,7 @@
 <?php
 
 $lang = array(
-    'certs_control' => 'SSL / TLS 控制'，
+    'certs_control' => 'SSL / TLS 控制',
     'service_serv' => '服务',
     'service_domain' => '域',
     'service_expire' => '到期日期',
