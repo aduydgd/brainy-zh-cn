@@ -1,13 +1,13 @@
 <?php
 $lang = array(
-    'setting_virthost'		=> 'Настройка виртуального хоста',
-    'setting_virthost_users'		=> 'Для пользователей',
-    'setting_virthost_experts'		=> 'Для экспертов',
-    'setting_virthost_select_user'		=> 'Выберите пользователя',
-    'setting_virthost_params_nginx'		=> 'Параметры nginx для сайта ',
-    'setting_virthost_params_apache'		=> 'Параметры apache для сайта ',
-    'setting_virthost_edit_file'		=> 'Редактирование файла - ',
-    'setting_virthost_default_config'		=> 'Восстановить конфиг по умолчанию',
-    'setting_virthost_confirm_default_config'		=> 'Подтвердите восстановление конфигурации, по умолчанию. Все пользовательские данные будут удалены.',
-    'setting_virthost_success'		=> 'Успешно выполнено',
+    'setting_virthost' => '设置虚拟主机',
+     'setting_virthost_users' => '用户',
+     'setting_virthost_experts' => '高级',
+     'setting_virthost_select_user' => '选择用户',
+     'setting_virthost_params_nginx' => '站点的 Nginx 参数',
+     'setting_virthost_params_apache' => '站点的 Apache 参数',
+     'setting_virthost_edit_file' => '编辑文件 -',
+     'setting_virthost_default_config' => '恢复默认配置',
+     'setting_virthost_confirm_default_config' => '确认恢复默认配置。,所有用户数据都将被删除',
+     'setting_virthost_success' => '成功完成',
 );
