@@ -1,11 +1,11 @@
 <?php
 $lang = array(
 	'shellinabox'		=> 'Web Shell',
-	'shellinabox_unavailable'		=> 'service unavailable',
-	'shellinabox_not_install'		=> 'Shellinabox не установлен',	
-	'shellinabox_install'		=> 'Установить Shellinabox',
-	'shellinabox_demo'		=> 'Web Shell не доступен в демо версии панели.',
-	'shellinabox_not_running'		=> 'Сервис не запущен. Управление сервисом через пакетный менеджер.',
-	'shellinabox_start_service'		=> 'Запустить сервис.',
-    'shellinabox_console'=>'Консоль',
+	'shellinabox_unavailable' => '服务不可用',
+        'shellinabox_not_install' => 'Shellinabox 未安装',
+        'shellinabox_install' => '安装 Shellinabox',
+        'shellinabox_demo' => 'Web Shell 在面板演示中不可用',
+        'shellinabox_not_running' => '服务没有运行，通过包管理器进行服务管理',
+        'shellinabox_start_service' => '启动服务',
+        'shellinabox_console' => '控制台',
 );
