@@ -1,9 +1,9 @@
 <?php
 
 $lang = array(
-    'update'           => 'Обновление',
-    'update_inprogress' => 'Обновление в процессе...',
-    'update_force'=>'Форсированное обновление',
+    'update'           => '更新',
+    'update_inprogress' => '正在更新...',
+    'update_force'=>'强制更新',
 
 );
 
