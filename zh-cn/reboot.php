@@ -1,15 +1,15 @@
 <?php
 
 $lang = array(
-    'reboot'=>'Перезагрузка',
-    'reboot_message_reboot'		=> 'Ваш сервер будет сейчас перезагружен.',
-    'tpl_reboot_header'		=> 'Перезагрузка сервера',
-    'tpl_reboot_message'		=> 'Перезагрузка сервера',
-    'tpl_reboot'		=> 'Мягкая перезагрузка',
-    'tpl_reboot_f'		=> 'Жёсткая перезагрузка',
-    'tpl_reboot_f_confirm'		=> 'Подтвердите выполнение жёсткой перезагрузки',
-    'tpl_reboot_confirm'		=> 'Подтвердите выполнение мягкой перезагрузки',
-    'tpl_reboot_succesfuly'		=> 'Запрос на перезагрузку успешно послан',
+    'reboot' => '重启',
+     'reboot_message_reboot' => '您的服务器现在将重新启动',
+     'tpl_reboot_header' => '服务器重启',
+     'tpl_reboot_message' => '服务器重启',
+     'tpl_reboot' => '软重启',
+     'tpl_reboot_f' => '硬重启',
+     'tpl_reboot_f_confirm' => '确认硬重启',
+     'tpl_reboot_confirm' => '确认软重启',
+     'tpl_reboot_succesfuly' => '重启请求发送成功',
 
 );
 
