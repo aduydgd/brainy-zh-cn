@@ -176,7 +176,7 @@ $lang = array (
 'tpl_mail_dmarc_mailto' => '报告地址',
 'tpl_mail_dmarc_saved' => '保存',
 
-'tpl_mail_rouncube' => '圆形立方体',
+'tpl_mail_rouncube' => 'Roundcube',
 'tpl_mail_webmaillite' => 'WebMailLite',
 
 'msg_mail_err_mysql_connect' => '连接到 MySQL 服务器时出错：',
