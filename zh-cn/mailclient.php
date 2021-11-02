@@ -36,7 +36,7 @@ $lang = array (
 'tpl_mail_email' => '电子邮件',
 'tpl_mail_email_mail' => '邮件',
 'tpl_mail_enter_passwd' => '输入密码',
-'tpl_mail_open_roundcube' => '圆形立方体',
+'tpl_mail_open_roundcube' => 'Roundcube',
 'tpl_mail_open_squire' => 'Squire mail',
 'tpl_mail_open_webmail' => '网络邮件',
 
