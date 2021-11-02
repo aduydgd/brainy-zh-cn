@@ -1,4 +1,4 @@
 <?php
 $lang = array(
-    'limits_error_user'           			=> 'Ошибка пользователя',
+    'limits_error_user'           			=> '用户错误列表',
 );
