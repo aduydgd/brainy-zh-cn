@@ -1,7 +1,7 @@
 <?php
 
 $lang = array(
-    'tpl_memmanager_header' => '服务器资源管理器',
+    'tpl_memmanager_header' => '资源管理器',
     'tpl_memmanager_huge' => '为大页面内存配置资源',
     'tpl_memmanager_save' => '保存',
 
@@ -28,7 +28,7 @@ $lang = array(
     'tpl_memmanager_memcached_noconf' => '* 警告！未找到配置文件',
     'tpl_memmanager_memcached_nodata' => '* 警告！未找到数据文件',
 
-    'memmanager_hgpg' => '大页数：',
+    'memmanager_hgpg' => '页数：',
     'memmanager_hgpg_size' => '一个 Huge Pages 页面的内核设置大小（以 KB 为单位）：',
 
     'memmanager_http_MaxMemFree' => '<b> MaxMemFree </b> - 一个线程的内存量，以kb为单位，之后将被释放</br>如果为0或未定义，则每个线程的内存量不受限制（不推荐）：' ,
