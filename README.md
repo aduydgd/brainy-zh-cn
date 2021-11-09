@@ -1,7 +1,7 @@
 # brainy-zh-cn
 brainy主机控制面板-zh-cn汉化包
 基于官方 1.0930 最新版本制作
-
+## 官方最新版本：1.09
 ## 最低系统要求：
 * 操作系统：CentOS 7 64 位，  CentOS 8 64 位
 * 内存：最小 1GB
@@ -14,8 +14,8 @@ brainy主机控制面板-zh-cn汉化包
 * 交换内存：2GB
 * 磁盘：根分区上 10GB /
 * 处理器：最小266mhz
- ## 安装方法:
-* 如果还没有安装面板，请复制下面安装命令进行安装
+ ## 安装方法:（请使用纯净环境）
+* 如果还没有安装面板，请复制下面安装命令在命令行进行安装
 ## 安装
 * yum clean all && yum install -y wget && wget -O install.sh http://core.brainycp.com/install.sh && bash ./install.sh
 ## 自定义安装
