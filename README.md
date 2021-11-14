@@ -1,4 +1,9 @@
+## 简介
 ![image](https://user-images.githubusercontent.com/62134021/141677091-4dc83493-f7f0-4cda-928a-f598e142ca90.png)
+![image](https://user-images.githubusercontent.com/62134021/141677140-134708e3-92e2-4040-ad58-5a6bc50ccf15.png)
+![image](https://user-images.githubusercontent.com/62134021/141677159-84ff841b-cfaa-40c5-83fb-c25c1ef03ecb.png)
+![image](https://user-images.githubusercontent.com/62134021/141677178-10a3b8a1-cbf0-4743-b565-f6aa6bbdecb3.png)
+![image](https://user-images.githubusercontent.com/62134021/141677198-1604281e-e63e-4f8d-b298-ae0402c5a37a.png)
 
 # brainy-zh-cn
 brainy主机控制面板-zh-cn汉化包
