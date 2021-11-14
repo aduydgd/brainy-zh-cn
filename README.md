@@ -29,5 +29,7 @@ brainy主机控制面板-zh-cn汉化包
 * 控制板-服务器设置-其他设置（直接选择语言文件cn），保存后即可立即生效！</br>
   
 * 尽量保留官方俄语语言文件ru，没有特殊情况不要删除。</br>
- 
-* 如果还需要文件管理器设置为中文，请留言告诉我，我抽时间进行汉化！
+ ## 文件管理器汉化：
+* 下载文件后，直接覆盖路径内文件
+* 1、/usr/local/brainycp/plugins/elFinder_backups/js/i18n
+* 2、/usr/local/brainycp/plugins/elFinder-2.1.9/js/i18n
