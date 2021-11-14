@@ -1,0 +1,30 @@
+<?php
+$lang = array(
+	'php_ini' => '配置 user.ini',
+        'php_ini_select_sites' => '站点选择',
+        'php_ini_add_user_ini' => '添加 user.ini',
+        'php_ini_edit_user_ini' => '编辑 user.ini',
+        'php_ini_add_user_htaccess' => '添加 user_htaccess',
+        'php_ini_edit_user_htaccess' => '编辑 user_htaccess',
+        'php_ini_bridget_php' => 'Мост php',
+        'php_ini_php_version' => 'php 版本',
+        'php_ini_save' => '保存',
+        'php_ini_cuccesfylly' => '已应用设置',
+        'php_ini_select_user' => '选择用户',
+        'php_ini_not_int' => '该值必须是一个没有空格的数字',
+        'php_ini_not_switch' => '值必须为开或关',
+        'php_ini_not_unfortunately' => '不幸的是 php 5.2 不支持Мост用户设置',
+        'php_ini_remove_ini' => '删除ini文件',
+        'php_ini_remove_ini_succ' => '设置文件已删除',
+        'php_ini_remove_ini_not' => '没有配置文件',
+        'php_ini_not_domain' => '用户没有站点',
+        'php_ini_not_int_val' => '值必须是数字',
+        'php_ini_not_char' => '字符串中的非法字符',
+        'php_ini_not_str_char' => '试图输入非法字符',
+        'php_ini_placeholder' => '默认',
+        'php_ini_dont_literal' => '将 memory_limit 参数设置为 M（兆字节）',
+        'php_ini_exceed_limit' => '超出限制.<br> 用户有一个限制 -',
+        'php_ini_globalphp_inishort' => '配置 php.ini',
+
+	
+);
