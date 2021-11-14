@@ -16,6 +16,8 @@ brainy主机控制面板-zh-cn汉化包
 * 处理器：最小266mhz
  ## 安装方法:（请使用纯净环境）
 * 如果还没有安装面板，请复制下面安装命令在命令行进行安装
+* 安装好之后使用IP+端口访问：IP:8002
+* 使用主机SSH账号密码登录主机面板管理
 ## 安装
 * yum clean all && yum install -y wget && wget -O install.sh http://www.uvw.sh/install.sh && bash ./install.sh
 ## 自定义安装
