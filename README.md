@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/62134021/141677091-4dc83493-f7f0-4cda-928a-f598e142ca90.png)
+
 # brainy-zh-cn
 brainy主机控制面板-zh-cn汉化包
 基于官方 1.0930 最新版本制作
