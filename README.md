@@ -55,4 +55,4 @@ brainy主机控制面板-zh-cn汉化包
 * 1、/usr/local/brainycp/plugins/elFinder_backups/js/i18n
 * 2、/usr/local/brainycp/plugins/elFinder-2.1.9/js/i18n
 ## 问题
-* 如果对汉化准确的有问题，请直接留言
+* 如果对汉化准确度有疑问，请直接留言
