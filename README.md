@@ -1,17 +1,17 @@
 ## 简介
 * BrainyCP是一款由乌克兰人开发的虚拟主机管理系统，免费且强大可匹配cPanel，也有专人维护进行不定期持续的更新，为虚拟主机托管面板提供了一个选择
-👍优点
-✔️完全免费使用企业级控制面板
-✔️通过电子邮件通知监控所有服务或服务的状态
-✔️在APACHE、NGINX或APACHE + NGINX（前端）之间进行选择
-✔️根据需要和设计完全定制面板
-✔️PureFTPD、ProFTPD可供选择
-✔️简单的elFinder文件管理器
-✔️防病毒CLAMAV自动更新
-✔️BIND DNS服务器，支持DNS群集和远程DNS服务器
-✔️自动从Let's Encrypt安装免费证书
-✔️正常和远程增量备份，备份按计划进行
-✔️用于管理IPTABLES的图形界面，支持IPV6，包括CSF防火墙
+## 👍优点
+* ✔️完全免费使用企业级控制面板
+* ✔️通过电子邮件通知监控所有服务或服务的状态
+* ✔️在APACHE、NGINX或APACHE + NGINX（前端）之间进行选择
+* ✔️根据需要和设计完全定制面板
+* ✔️PureFTPD、ProFTPD可供选择
+* ✔️简单的elFinder文件管理器
+* ✔️防病毒CLAMAV自动更新
+* ✔️BIND DNS服务器，支持DNS群集和远程DNS服务器
+* ✔️自动从Let's Encrypt安装免费证书
+* ✔️正常和远程增量备份，备份按计划进行
+* ✔️用于管理IPTABLES的图形界面，支持IPV6，包括CSF防火墙
 
 ![image](https://user-images.githubusercontent.com/62134021/141677091-4dc83493-f7f0-4cda-928a-f598e142ca90.png)
 ![image](https://user-images.githubusercontent.com/62134021/141677140-134708e3-92e2-4040-ad58-5a6bc50ccf15.png)
